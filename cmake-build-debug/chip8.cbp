@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/dennisafa/chip8/instruction.h">
+			<Option target="chip8"/>
+		</Unit>
 		<Unit filename="/Users/dennisafa/chip8/main.cpp">
 			<Option target="chip8"/>
 		</Unit>
